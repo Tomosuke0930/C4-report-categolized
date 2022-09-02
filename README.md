@@ -1,7 +1,10 @@
 # C4 report categolized
 
-| DEX/AMM | LI.FI | https://code4rena.com/reports/2022-03-lifinance |
+You can see all report in [this](https://code4rena.com/reports/) page.
+
+| Category | Protcol | Link |
 | --- | --- | --- |
+| DEX/AMM | LI.FI | https://code4rena.com/reports/2022-03-lifinance |
 | DEX/AMM | Boot Finance | https://code4rena.com/reports/2021-11-bootfinance |
 | DEX/AMM | Velodrome Finance | https://code4rena.com/reports/2022-05-velodrome |
 | DEX/AMM | Trader-Joe | https://code4rena.com/reports/2022-01-trader-joe |
