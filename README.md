@@ -2,7 +2,7 @@
 
 You can see all report in [this](https://code4rena.com/reports/) page.
 
-| Category | Protcol | Link |
+| Category | Protocol | Link |
 | --- | --- | --- |
 | DEX/AMM | LI.FI | https://code4rena.com/reports/2022-03-lifinance |
 | DEX/AMM | Boot Finance | https://code4rena.com/reports/2021-11-bootfinance |
