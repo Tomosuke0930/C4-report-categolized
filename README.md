@@ -1,4 +1,4 @@
-# Code4rena report categolized
+# Code4rena report categorized
 
 This page categorises [all past reports](https://code4rena.com/reports) from Code4rena. 
 
